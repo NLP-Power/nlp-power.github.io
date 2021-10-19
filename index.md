@@ -9,11 +9,7 @@ The First Workshop on Efficient Benchmarking in NLP. The workshop programmewill 
 ## Workshop description
 
 Benchmarks have played a crucial role in accelerating progress in the field of NLP, covering a widerange of research directions: 
-natural language understanding  (Wang  et  al.,  2019a,b),  natural  language generation (Gehrmann et al., 2021), 
-cross-lingual knowledge transfer (Hu et al., 2020), prob-ing and interpretation (Conneau and Kiela, 2018;Conneau  et  al.,  2018),  
-ethical  biases  (Röttgeret al., 2020) and robustness to adversarial attacks(Morris  et  al.,  2020). 
-Despite  that  the  concept of benchmarking has become a standard practicefor  evaluating  upcoming  models  against  
-one  another  and  human  solvers,  there  is  still  a  number of unresolved issues and methodological concerns (Rogers, 2019; Dehghani et al., 2021).
+natural language understanding  (Wang  et  al.,  2019a,b),  natural  language generation (Gehrmann et al., 2021), cross-lingual knowledge transfer (Hu et al., 2020), prob-ing and interpretation (Conneau and Kiela, 2018;Conneau  et  al.,  2018),  ethical  biases  (Röttgeret al., 2020) and robustness to adversarial attacks (Morris  et  al.,  2020). Despite  that  the  concept of benchmarking has become a standard practicefor  evaluating  upcoming  models  against  one  another  and  human  solvers,  there  is  still  a  number of unresolved issues and methodological concerns (Rogers, 2019; Dehghani et al., 2021).
 
 The main objectives of this workshop are: (1) encouraging the development of optimal model ranking and evaluation approaches for NLP benchmarks, (2) rethinking benchmarking strategies that best account for computational costs, energy and ethical considerations, out-of-domain language capabilities and meet the end user preferences. We welcome submissions on the ongoing and finished research and hope to provide an opportunity to present their work and exchange ideas. Particular topics of interest include, but are not limited to:
 
@@ -55,11 +51,11 @@ Authors of accepted archival papers should upload the final version of their pap
 ## Invited speakers
 
 ### [Ulises A. Mejias (SUNY Oswego)](https://blog.ulisesmejias.com/)
-<img src="https://github.com/blackboxnlp/blackboxnlp.github.io/blob/main/sara_hooker.png?raw=true" width="100px" align="right">
+<img src="https://github.com/NLP-Power/nlp-power.github.io/blob/main/ulises_mejias.jpg?raw=true" width="100px" align="right">
 
 
 ### [Anna Rumshisky (UMASS, Amazon)](https://www.uml.edu/sciences/computer-science/faculty/rumshisky-anna.aspx) 
-<img src="https://github.com/blackboxnlp/blackboxnlp.github.io/blob/main/ana_marasovic.png?raw=true" width="100px" align="right">
+<img src="https://github.com/NLP-Power/nlp-power.github.io/blob/main/rumshisky-anna.jpg?raw=true" width="100px" align="right">
 
 ## Program Committee
  - Jürgen Schmidhuber (Swiss AI Lab IDSIA, USI, SUPSI, AIRI) 
