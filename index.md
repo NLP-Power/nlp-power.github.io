@@ -1,4 +1,4 @@
-# NLP Power
+# NLP Power!
 
 The First Workshop on Efficient Benchmarking in NLP. The workshop programme will be available [here](https://nlp-power.github.io/program.html).
 
