@@ -1,4 +1,4 @@
-# NLP Power
+# NLP Power!
 
 The First Workshop on Efficient Benchmarking in NLP. The workshop programme will be available [here](https://nlp-power.github.io/program.html).
 
@@ -29,11 +29,11 @@ The main objectives of this workshop are: (1) encouraging the development of opt
 
 The official call for papers is available [here](cfp.txt).
 
-**Computational race & carbon footprints** A recent  trend  on  scaling  the  number  of  parameters in pretrained language models to hundreds of billions (Brown et al., 2020) has facilitated novel state-of-the-art results on NLU benchmarks at the cost of millions of dollars and large carbon footprint  (Strubell  et  al.,  2019;  Lottick  et  al.,  2019; Bender et al., 2021). This often results in insignificant improvements, e.g. the difference in the overall  score  of  current  top-3  models  on  the  SuperGLUE  leaderboard is  of  maximum  0.3%.   The trend also leads to the problem of unequal access to computational resources (Couldry and Mejias, 2020) and difficulties of using such models in academic  and  industrial  fields  (Schick  and  Schütze, 2021).
+**Computational race & carbon footprints** A recent trend on scaling the  number of parameters in pretrained language models to hundreds of billions (Brown et al., 2020) has facilitated novel state-of-the-art results on NLU benchmarks at the cost of millions of dollars and large carbon footprint (Strubell  et  al.,  2019;  Lottick et  al., 2019; Bender et al., 2021). This often results in insignificant improvements, e.g. the difference in the overall score of current top-3  models on the SuperGLUE leaderboard is of maximum  0.3%. The trend also leads to the problem of unequal access to computational resources (Couldry and Mejias, 2020) and difficulties of using such models in academic and industrial fields (Schick  and  Schütze, 2021).
 
 **Linguistic competence** Modern  models  struggle to learn rare phenomena from data, even when increasing the size of pre-training corpora (Zhang et  al.,  2020). The  linguistic  phenomena  generally  follow  Zipf  distribution,  meaning  that  most of them are harder to learn because of their rare presence in natural language data (Rogers, 2021). 
 
-**Reproducibility crisis** Recent   studies   report040that  reproducibility  of  the  stated  results  in  NLP is  hard  to  achieve  w.r.t. neural  models  (Belz et  al.,  2021a;  Bianchi  and  Hovy,  2021)  and  human solvers (Belz et al., 2021b), a scientific problem that has received the term of “reproducibility crisis” (Baker, 2016).  Systematic reviews of this kind raise doubts on the reliability of model ranking on canonical leaderboards, specifically against human baselines which are widely regarded as the standard form of tracing progress in the field. 
+**Reproducibility crisis** Recent   studies   report that  reproducibility  of  the  stated  results  in  NLP is  hard  to  achieve  w.r.t. neural  models  (Belz et  al.,  2021a;  Bianchi  and  Hovy,  2021)  and  human solvers (Belz et al., 2021b), a scientific problem that has received the term of “reproducibility crisis” (Baker, 2016).  Systematic reviews of this kind raise doubts on the reliability of model ranking on canonical leaderboards, specifically against human baselines which are widely regarded as the standard form of tracing progress in the field. 
 
 **Model and human evaluation design** The NLP field has not yet reached a consensus about benchmark methodological guidelines on model and human  evaluation  (Bowman  and  Dahl, 2021; Rodriguez et al., 2021). Many works detail cognitive biases in human evaluation (Schoch et al., 2020), critique unreliability of human baselines through crowd-sourcing (Nangia and Bowman, 2019), reinforce the need of independent evaluation in multiple languages (Linzen, 2020),  highlight the necessity  of  measuring  contribution  of  a  particular task to the resulting score (Choudhury and Deshpande,  2021),  and  evaluating  inference  time  and memory  consumption  (Kiela  et  al., 2021) along with  the  user  preferences  (Ethayarajh  and  Jurafsky, 2020).
 
@@ -67,11 +67,11 @@ Anna Rumshisky is an Associate Professor of Computer Science at the University o
 ## Organizers
 
  - **Tatiana Shavrina** (AIRI, SberDevices) is a Research Project Manager in NLP at AI Research Institute, Moscow, Russia. Tatiana also works as a Chief Technology Expert in the Department of Experimental ML at SberDevices. Her research focus is on the evaluation and interpretation of the pretrained language models (LMs) training results.
- - **Valentin Malykh** (Huawei) has written his PhD thesis at Moscow Institute of Physics and Technology and defended it at Institute for Systems Programming, Russian Academy of Sciences in 2019. Dr. Malykh has more than 20 papers in NLP field, including publications on such conferences as NeurIPS, ACL, WSDM. Now Valentin is employed as a senior research scientist at Huawei Noah's Ark laboratory.
- - **Ekaterina Artemova** (HSE University, Huawei) holds PostDoc position at CS Faculty, HSE and advises Noah Ark's NLP team on advanced research topics. Ekaterina focuses on NLU tasks, ranging from ToD systems to IE, and creating new datasets. 
- - **Vladislav Mikhailov** (SberDevices, HSE University) is an R\&D NLP Engineer in the Department of Experimental ML at SberDevices, and works as an invited lecturer in Big Data and IR School (HSE). 
- - **Oleg Serikov** (AIRI, HSE University)
- - **Vitaly Protasov** (AIRI)
+ - **Valentin Malykh** (Huawei) has written his PhD thesis at Moscow Institute of Physics and Technology and defended it at the Institute for Systems Programming, Russian Academy of Sciences in 2019. Dr Malykh has more than 20 papers in the NLP field, including publications on such conferences as NeurIPS, ACL, WSDM. Now Valentin is employed as a senior research scientist at Huawei Noah's Ark laboratory.
+ - **Ekaterina Artemova** (HSE University, Huawei) holds a PostDoc position at CS Faculty, HSE and advises Noah Ark's NLP team on advanced research topics. Ekaterina focuses on NLU tasks, ranging from ToD systems to IE, and creating new datasets. 
+ - **Vladislav Mikhailov** (SberDevices, HSE University) is an R\&D NLP Engineer in the Department of Experimental ML at SberDevices and works as an invited lecturer in Big Data and IR School (HSE). 
+ - **Oleg Serikov** (AIRI, HSE University) is a pro-active NLP Researcher at AIR Institute. Oleg now writes his PhD thesis at HSE University, his main points of interest are transfer learning, multilingual language modelling and benchmarking.
+ - **Vitaly Protasov** (AIRI) works as an NLP Researcher at AIR Institute. Vitaly has a rich history of research collaborations in NLP with SkolTech, MIPT and Huawei, his main topics of interest now being transfer learning methods in benchmarking. 
 
 
 ## Workshop programme 
