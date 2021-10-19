@@ -50,12 +50,14 @@ Authors of accepted archival papers should upload the final version of their pap
 
 ## Invited speakers
 
-### [Ulises A. Mejias (SUNY Oswego)](https://blog.ulisesmejias.com/)
+### Ulises A. Mejias [(SUNY Oswego)](https://blog.ulisesmejias.com/)
 <img src="https://github.com/NLP-Power/nlp-power.github.io/blob/main/ulises_mejias.jpg?raw=true" width="100px" align="right">
+Ulises A. Mejias is Professor of Communication Studies and director of the Institute for Global Engagement at SUNY Oswego. From 2021 to 2025, a Fulbright Specialist fellow. Ulises A. Mejias is co-founder of the Non-Aligned Technologies Movement and the network Tierra Común and also serves on the Board of Directors of Humanities New York, a National Endowment for the Humanities affiliate. Research interests include critical internet studies, network theory and science, philosophy of technology, sociology of communication, and political economy of digital media.
 
-
-### [Anna Rumshisky (UMASS, Amazon)](https://www.uml.edu/sciences/computer-science/faculty/rumshisky-anna.aspx) 
+### Anna Rumshisky [(UMASS, Amazon)](https://www.uml.edu/sciences/computer-science/faculty/rumshisky-anna.aspx) 
 <img src="https://github.com/NLP-Power/nlp-power.github.io/blob/main/rumshisky-anna.jpg?raw=true" width="100px" align="right">
+Anna Rumshisky is an Associate Professor of Computer Science at the University of Massachusetts Lowell, where she heads the Text Machine Lab for NLP. Her primary research area is machine learning for natural language processing, with a focus on deep learning techniques. 
+
 
 ## Program Committee
  - Jürgen Schmidhuber (Swiss AI Lab IDSIA, USI, SUPSI, AIRI) 
