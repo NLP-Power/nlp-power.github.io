@@ -66,11 +66,11 @@ Anna Rumshisky is an Associate Professor of Computer Science at the University o
 
 ## Organizers
 
- - **Tatiana Shavrina** (AIRI, SberDevices) is a Research Project Manager in NLP at AI Research Institute, Moscow, Russia. Tatiana also works as a Chief Technology Expert in the Department of Experimental ML at SberDevices. Her research focus is on the evaluation and interpretation of the pretrained language models (LMs) training results.\\
+ - **Tatiana Shavrina** (AIRI, SberDevices) is a Research Project Manager in NLP at AI Research Institute, Moscow, Russia. Tatiana also works as a Chief Technology Expert in the Department of Experimental ML at SberDevices. Her research focus is on the evaluation and interpretation of the pretrained language models (LMs) training results.
  - **Valentin Malykh** (Huawei)
  - **Ekaterina Artemova** (HSE University, Huawei) holds PostDoc position at CS Faculty, HSE and advises Noah Ark's NLP team on advanced research topics. Ekaterina focuses on NLU tasks, ranging from ToD systems to IE, and creating new datasets. 
- - **Vladislav Mikhailov** (SberDevices, HSE University) is an R\&D NLP Engineer in the Department of Experimental ML at SberDevices, and works as an invited lecturer in Big Data and IR School (HSE). \\
- - **Oleg Serikov** (AIRI, HSE University)\\
+ - **Vladislav Mikhailov** (SberDevices, HSE University) is an R\&D NLP Engineer in the Department of Experimental ML at SberDevices, and works as an invited lecturer in Big Data and IR School (HSE). 
+ - **Oleg Serikov** (AIRI, HSE University)
  - **Vitaly Protasov** (AIRI)
 
 
