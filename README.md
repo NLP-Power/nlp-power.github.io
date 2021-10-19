@@ -51,7 +51,7 @@ Ulises A. Mejias is Professor of Communication Studies and director of the Insti
 <img src="https://github.com/NLP-Power/nlp-power.github.io/blob/main/rumshisky-anna.jpg?raw=true" width="100px" align="right">
 Anna Rumshisky is an Associate Professor of Computer Science at the University of Massachusetts Lowell, where she heads the Text Machine Lab for NLP. Her primary research area is machine learning for natural language processing, with a focus on deep learning techniques. 
 
-<img src="https://github.com/NLP-Power/nlp-power.github.io/blob/main/juergen-schmidhuber.jpg?raw=true" width="100px" align="right">
+
 
 ## Program Committee
  - Jürgen Schmidhuber (Swiss AI Lab IDSIA, USI, SUPSI, AIRI) 
