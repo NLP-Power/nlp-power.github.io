@@ -61,6 +61,7 @@ Anna Rumshisky is an Associate Professor of Computer Science at the University o
  - Daniel Karabekyan (HSE University)
  - Preslav Nakov (QCRI) 
  - Suresh Manandhar (Wiseyak, USA)
+ - Piotr Piękos (DeepMind)
  - Olga Lyashevskaya (Vinogradov IRL RAS, HSE University)
 
 ## Organizers
