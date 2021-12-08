@@ -7,7 +7,7 @@ The First Workshop on Efficient Benchmarking in NLP. The workshop programme will
  - Feb. 28, 2022: Workshop Paper Due Date [We accept papers via ARR](https://aclrollingreview.org/cfp)
  - March 26, 2022: Notification of Acceptance 
  - April 10, 2022: Camera-ready papers due 
- - May 26-28, 2022: Workshop Dates 
+ - May 26-28, 2022: Workshop Dates (to be assigned)
 
 ## Workshop description
 
