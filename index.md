@@ -15,7 +15,7 @@ The workshop programme will be available [here](https://nlp-power.github.io/prog
  - May 26-28, 2022: Workshop Dates (to be assigned)
 
 ## Workshop description
-Benchmarks have played a crucial role in accelerating progress in the field of NLP, covering a wide range of research directions: natural language understanding (GLUE, SuperGLUE), natural language generation (GEM), cross-lingual knowledge transfer (XGLUE, XTREME), probing and interpretation (LINSPECTOR, SentEval), hate speech and bias (HateCheck, StereoSet, HONEST) and robustness to adversarial attacks (RobustnessGym,  AdvGLUE).  Despite the fact that the concept of benchmarking has become a standard practice for evaluating upcoming models against one another and human solvers, there are still a number of unresolved issues and methodological concerns.
+Benchmarks have played a crucial role in accelerating progress in the field of NLP, covering a wide range of research directions: natural language understanding (GLUE, SuperGLUE), natural language generation (GEM), cross-lingual knowledge transfer (XGLUE, XTREME), probing, and interpretation (LINSPECTOR, SentEval), hate speech and bias (HateCheck, StereoSet, HONEST) and robustness to adversarial attacks (RobustnessGym,  AdvGLUE).  Despite the fact that the concept of benchmarking has become a standard practice for evaluating upcoming models against one another and human solvers, there are still a number of unresolved issues and methodological concerns.
 
 The main objectives of this workshop are to (1) create a space for critical reflection on current benchmarks and evaluation tools, (2) encourage the development of improved or new benchmarks and evaluation tools that resolve current challenges, (3) develop better approaches to model ranking, (4) rethink benchmarking strategies that best account for computational costs, energy and ethical considerations, out-of-domain language capabilities and meeting the end-user preferences. We welcome submissions on ongoing and finished research and hope to provide an opportunity for participants to present their work and exchange ideas. Particular topics of interest include, but are not limited to:
  - Computational efficiency and energy considerations in NLP benchmarks;
@@ -66,6 +66,7 @@ He He is an Assistant Professor of Computer Science and Data Science at CILVR La
  - Jürgen Schmidhuber (Swiss AI Lab IDSIA, USI, SUPSI, AIRI) 
  - Leonid Zhukov (AIRI)
  - Mikhail Burtsev (AIRI)
+ - Laura Weidinger (DeepMind)
  - Anastasia Bonch-Osmolovskaya (HSE University)
  - Andrey Kravchenko (Oxford University)
  - Daniel Karabekyan (HSE University)
@@ -97,17 +98,16 @@ their novelty, technical quality, potential impact, and clarity.
 ## Paper submission
 
 We accept three types of papers
-Standard workshop papers: anonymized submissions describing substantially original research not previously published in other venues.
-Extended abstracts: anonymized submissions describing preliminary but interesting ideas or results not previously published in other venues.
-Cross-submissions: non-anonymized papers on relevant topics that have previously been accepted for publication in another venue.
+ - **Standard workshop papers:** anonymized submissions describing substantially original research not previously published in other venues.
+ - **Extended abstracts:** anonymized submissions describing preliminary but interesting ideas or results not previously published in other venues.
+ - **Cross-submissions:** non-anonymized papers on relevant topics that have previously been accepted for publication in another venue.
 
 Workshop papers cannot exceed 6 pages in length (excluding ethical considerations and references). The papers can have an optional appendix as described in ARR CFP guidelines. For example, preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into appendices. The reviewers are not required to consider the appendix during the review process.
 
-## Dual submissions nd preprints
+## Dual submissions and preprints
+Dual submissions with the main conference are allowed, but authors should declare dual submissions if accepted. Authors of dual-submission papers accepted to the main conference should inform the workshop organizers by April 15, thus their papers will be considered non-archival.
 
-Dual submissions with the main conference are allowed, but authors must declare dual submission by entering the paper’s main conference submission id. The reviews for the submission for the main conference will be automatically forwarded to the workshop and taken into consideration when your paper is evaluated. Authors of dual-submission papers accepted to the main conference should retract them from the workshop by April 15.
-
-Papers posted to preprint servers such as arxiv can be submitted without any restrictions on when they were posted.
+You are also allowed to submit an already published paper for presentation at the workshop. You must declare such papers as non-archival.
 
 ## Contact information
 
