@@ -6,6 +6,8 @@ The workshop programme will be available [here](https://nlp-power.github.io/prog
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/nlp_power_acl.svg?style=social&label=Follow%20%40nlp_power_acl)](https://twitter.com/nlp_power_acl)
 
+## The First Call for Papers 🍭🌙
+The official call for papers is available [here](https://github.com/NLP-Power/nlp-power.github.io/blob/main/cfp.txt).
 
 ## Important dates
 
@@ -32,8 +34,6 @@ The main objectives of this workshop are to (1) create a space for critical refl
  - Human evaluation protocols, specifically in the multilingual setting;
  - Tracing biases and ethical issues in benchmark datasets and models.
 
-
-The official call for papers is available [here](https://github.com/NLP-Power/nlp-power.github.io/blob/main/cfp.txt).
 
 **Computational race & carbon footprints** A recent trend on scaling the  number of parameters in pretrained language models to hundreds of billions (Brown et al., 2020) has facilitated novel state-of-the-art results on NLU benchmarks at the cost of millions of dollars and large carbon footprint (Strubell  et  al.,  2019;  Lottick et  al., 2019; Bender et al., 2021). This often results in insignificant improvements, e.g. the difference in the overall score of current top-3  models on the SuperGLUE leaderboard is of maximum  0.3%. The trend also leads to the problem of unequal access to computational resources (Couldry and Mejias, 2020) and difficulties of using such models in academic and industrial fields (Schick  and  Schütze, 2021).
 
