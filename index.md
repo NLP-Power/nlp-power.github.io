@@ -26,7 +26,7 @@ Workshop papers cannot exceed 6 pages in length (excluding ethical consideration
 
 The workshop programme will be available [here](https://nlp-power.github.io/program.html).
 
-![NLP Power](./pic1.JPG?raw=true|width=300px)
+![NLP Power](pic1.JPG?raw=true|width=300px)
 
 
 
