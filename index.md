@@ -2,12 +2,20 @@
 
 The First Workshop on Efficient Benchmarking in NLP. 
 
-The workshop programme will be available [here](https://nlp-power.github.io/program.html).
-
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/nlp_power_acl.svg?style=social&label=Follow%20%40nlp_power_acl)](https://twitter.com/nlp_power_acl)
 
-## The First Call for Papers 🍭🌙
-The official call for papers is available [here](https://github.com/NLP-Power/nlp-power.github.io/blob/main/cfp.txt).
+## The Second Call for Papers 🍭🌙
+
+**Submit your paper via [ARR](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power)**
+
+The official call for papers is available [here](https://github.com/NLP-Power/nlp-power.github.io/blob/main/cfp2.txt).
+
+
+
+The workshop programme will be available [here](https://nlp-power.github.io/program.html).
+
+![NLP Power](./pic1.jpg?raw=true|width=400px)
+
 
 ## Important dates
 
