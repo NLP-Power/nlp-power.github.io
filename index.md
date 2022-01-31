@@ -10,12 +10,12 @@ The First Workshop on Efficient Benchmarking in NLP.
 
 The official call for papers is available [here](https://github.com/NLP-Power/nlp-power.github.io/blob/main/cfp2.txt).
 
+We accept three types of papers
+1. Standard workshop papers: anonymized submissions describing substantially original research not previously published in other venues.
+2. Extended abstracts: anonymized submissions describing preliminary but interesting ideas or results not previously published in other venues.
+3. Cross-submissions: non-anonymized papers on relevant topics that have previously been accepted for publication in another venue.
 
-
-The workshop programme will be available [here](https://nlp-power.github.io/program.html).
-
-![NLP Power](./pic1.jpg?raw=true|width=400px)
-
+Workshop papers cannot exceed 6 pages in length (excluding ethical considerations and references). The papers can have an optional appendix as described in ARR CFP guidelines. For example, preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into appendices. The reviewers are not required to consider the appendix during the review process.
 
 ## Important dates
 
@@ -23,6 +23,13 @@ The workshop programme will be available [here](https://nlp-power.github.io/prog
  - March 26, 2022: Notification of Acceptance 
  - April 10, 2022: Camera-ready papers due 
  - May 26-28, 2022: Workshop Dates (to be assigned)
+
+The workshop programme will be available [here](https://nlp-power.github.io/program.html).
+
+![NLP Power](./pic1.jpg?raw=true|width=300px)
+
+
+
 
 ## Workshop description
 Benchmarks have played a crucial role in accelerating progress in the field of NLP, covering a wide range of research directions: natural language understanding (GLUE, SuperGLUE), natural language generation (GEM), cross-lingual knowledge transfer (XGLUE, XTREME), probing, and interpretation (LINSPECTOR, SentEval), hate speech and bias (HateCheck, StereoSet, HONEST) and robustness to adversarial attacks (RobustnessGym,  AdvGLUE).  Despite the fact that the concept of benchmarking has become a standard practice for evaluating upcoming models against one another and human solvers, there are still a number of unresolved issues and methodological concerns.
