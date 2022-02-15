@@ -22,7 +22,7 @@ Workshop papers cannot exceed 6 pages in length (excluding ethical consideration
  - Feb. 28, 2022: Workshop Paper Due Date [We accept papers via ARR](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power)
  - March 26, 2022: Notification of Acceptance 
  - April 10, 2022: Camera-ready papers due 
- - May 26-28, 2022: Workshop Dates (to be assigned)
+ - May 26, 2022: Workshop Date
 
 The workshop programme will be available [here](https://nlp-power.github.io/program.html).
 
@@ -82,6 +82,7 @@ He He is an Assistant Professor of Computer Science and Data Science at CILVR La
  - Mikhail Burtsev (AIRI)
  - Laura Weidinger (DeepMind)
  - Nitish Hemant Joshi (CILVR / ML2) 
+ - Richard Yuanzhe Pang (CILVR / ML2) 
  - Adaku Uchendu (Penn State University) 
  - Ilya Kuznetsov (TU Darmstadt)
  - Anastasia Bonch-Osmolovskaya (HSE University)
@@ -91,6 +92,8 @@ He He is an Assistant Professor of Computer Science and Data Science at CILVR La
  - Suresh Manandhar (Wiseyak, USA)
  - Piotr Piękos (DeepMind)
  - Olga Lyashevskaya (Vinogradov IRL RAS, HSE University)
+ - Arjun Akula (Google Research)
+
  
 ## Organizers
 
