@@ -19,9 +19,9 @@ Workshop papers cannot exceed 6 pages in length (excluding ethical consideration
 
 ## Important dates
 
- - Feb. 28, 2022: Workshop Paper Due Date [We accept papers via ARR](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power)
- - March 26, 2022: Notification of Acceptance 
- - April 10, 2022: Camera-ready papers due 
+ - March. 15, 2022: Workshop Paper Due Date [We accept papers via ARR](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power)
+ - April 10, 2022: Notification of Acceptance 
+ - April 22, 2022: Camera-ready papers due 
  - May 26, 2022: Workshop Date
 
 The workshop programme will be available [here](https://nlp-power.github.io/program.html).
