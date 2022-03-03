@@ -7,6 +7,7 @@ The First Workshop on Efficient Benchmarking in NLP.
 ## The Second Call for Papers 🍭🌙
 
 **Submit your paper via [ARR](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power)**
+**Transfer ACL ARR paper to the [workshop](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power_Commitments)**
 
 The official call for papers is available [here](https://github.com/NLP-Power/nlp-power.github.io/blob/main/cfp2.txt).
 
