@@ -97,6 +97,9 @@ He He is an Assistant Professor of Computer Science and Data Science at CILVR La
  - Olga Lyashevskaya (Vinogradov IRL RAS, HSE University)
  - Arjun Akula (Google Research)
 
+Emergency reviewers:
+ - Maria Tikhonova (HSE University)
+ - Dina Pisarevskaya (QMUL)
  
 ## Organizers
 
