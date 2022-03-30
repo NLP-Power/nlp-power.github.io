@@ -6,7 +6,7 @@ The First Workshop on Efficient Benchmarking in NLP.
 
 ## The Second Call for Papers 🍭🌙
 
-**Submit your paper via [ARR](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power)**
+**[ACL Rolling Review page](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power)**
 
 **Transfer ACL ARR paper to the [workshop](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power_Commitments)**
 
@@ -93,7 +93,7 @@ He He is an Assistant Professor of Computer Science and Data Science at CILVR La
  - Daniel Karabekyan (HSE University)
  - Preslav Nakov (QCRI) 
  - Suresh Manandhar (Wiseyak, USA)
- - Piotr Piękos (DeepMind)
+ - Piotr Piękos (University of Warsaw) 
  - Olga Lyashevskaya (Vinogradov IRL RAS, HSE University)
  - Arjun Akula (Google Research)
 
