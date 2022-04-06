@@ -4,20 +4,16 @@ The First Workshop on Efficient Benchmarking in NLP.
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/nlp_power_acl.svg?style=social&label=Follow%20%40nlp_power_acl)](https://twitter.com/nlp_power_acl)
 
-## The Second Call for Papers 🍭🌙
+## Finalizing camera-ready and workshop schedule 🍭🌙
 
-**[ACL Rolling Review page](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power)**
+**To the authors** Please check the pdf of your paper with the [ACLPUBCHECK](https://github.com/acl-org/aclpubcheck) tool, a Python tool that automatically detects author formatting errors, margin violations as well as many other common formatting errors in papers that are using the LaTeX sty file associated with ACL venues. 
 
+We strongly suggest using this tool tool before the submission of your final camera ready.
 
+**Submit camera-ready** via the [openreview page](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power): review submission.
 
-The official call for papers is available [here](https://github.com/NLP-Power/nlp-power.github.io/blob/main/cfp2.txt).
+**Programme**: The workshop programme will be available [here](https://nlp-power.github.io/program.html).
 
-We accept three types of papers
-1. Standard workshop papers: anonymized submissions describing substantially original research not previously published in other venues.
-2. Extended abstracts: anonymized submissions describing preliminary but interesting ideas or results not previously published in other venues.
-3. Cross-submissions: non-anonymized papers on relevant topics that have previously been accepted for publication in another venue.
-
-Workshop papers cannot exceed 6 pages in length (excluding ethical considerations and references). The papers can have an optional appendix as described in ARR CFP guidelines. For example, preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into appendices. The reviewers are not required to consider the appendix during the review process.
 
 ## Important dates
 
@@ -27,10 +23,8 @@ Workshop papers cannot exceed 6 pages in length (excluding ethical consideration
  - April 27, 2022: Author presentation videos due
  - May 26, 2022: Workshop Date
 
-The workshop programme will be available [here](https://nlp-power.github.io/program.html).
 
 <img src="./pic1.jpg" alt="hi" class="inline"/>
-
 
 
 ## Workshop description
@@ -109,31 +103,6 @@ Emergency reviewers:
  - **Vladislav Mikhailov** (SberDevices, HSE University) is an R\&D NLP Engineer in the Department of Experimental ML at SberDevices and works as an invited lecturer in Big Data and IR School (HSE). 
  - **Oleg Serikov** (AIRI, HSE University) is a pro-active NLP Researcher at AIR Institute. Oleg now writes his PhD thesis at HSE University, his main points of interest are transfer learning, multilingual language modelling and benchmarking.
  - **Vitaly Protasov** (AIRI) works as an NLP Researcher at AIR Institute. Vitaly has a rich history of research collaborations in NLP with SkolTech, MIPT and Huawei, his main topics of interest now being transfer learning methods in benchmarking. 
-
-
-## Workshop programme 
-
-TBD
-
-
-## Evaluation and decision criteria
-
-Submissions will be reviewed in a double-blind manner and assessed based on
-their novelty, technical quality, potential impact, and clarity. 
-
-## Paper submission
-
-We accept three types of papers
- - **Standard workshop papers:** anonymized submissions describing substantially original research not previously published in other venues.
- - **Extended abstracts:** anonymized submissions describing preliminary but interesting ideas or results not previously published in other venues.
- - **Cross-submissions:** non-anonymized papers on relevant topics that have previously been accepted for publication in another venue.
-
-Workshop papers cannot exceed 6 pages in length (excluding ethical considerations and references). The papers can have an optional appendix as described in ARR CFP guidelines. For example, preprocessing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into appendices. The reviewers are not required to consider the appendix during the review process.
-
-## Dual submissions and preprints
-Dual submissions with the main conference are allowed, but authors should declare dual submissions if accepted. Authors of dual-submission papers accepted to the main conference should inform the workshop organizers by April 15, thus their papers will be considered non-archival.
-
-You are also allowed to submit an already published paper for presentation at the workshop. You must declare such papers as non-archival.
 
 ## Contact information
 
