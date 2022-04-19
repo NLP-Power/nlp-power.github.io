@@ -3,7 +3,26 @@
 
 26 May 2022, co-located with ACL, Dublin, Ireland + online
 
-Schedule TBA
+THe program of the workshop will happen within the Ireland timezone (GMT), which means in between 8am and 7pm GMT.
+
+| Start time  | End time    | Title                                                                                                           |
+|-------------|-------------|-----------------------------------------------------------------------------------------------------------------|
+| 09:00:00 AM | 09:10:00 AM | Opening remarks                                                                                                 |
+| 09:10:00 AM | 09:55:00 AM | Invited Talk 1: Anna Rumshiski                                                                                  |
+| 09:55:00 AM | 10:10:00 AM | Beyond Static models and test sets: Benchmarking the potential of pre-trained models across tasks and languages |
+| 10:10:00 AM | 10:30:00 AM | Characterizing the Efficiency vs. Accuracy Trade-off for Long-Context NLP Models                                |
+| 10:30:00 AM | 11:00:00 AM |  Coffee break                                                                                                   |
+| 11:00:00 AM | 11:40:00 AM | Invited Talk 2: He He                                                                                           |
+| 11:40:00 AM | 12:00:00 AM | Why only Micro-$F_1$? Class Weighting of Measures for Relation Classification                                   |
+| 12:00:00 AM | 12:20:00 AM | ACL Findings: Revisiting Automatic Evaluation of Extractive Summarization Task: Can We Do Better than ROUGE?    |
+| 12:30:00 AM | 14:00:00 AM | Lunch break                                                                                                     |
+| 14:00:00 AM | 15:00:00 AM | Poster Session (gathertown)                                                                                     |
+| 15:00:00 AM | 15:30:00 AM |  Coffee break                                                                                                   |
+| 15:30:00 AM | 16:10:00 AM | Invited Talk 3: Ulises Mejias                                                                                   |
+| 16:10:00 AM | 16:30:00 AM | Checking HateCheck: a cross-functional analysis of behaviour-aware learning for hate speech detection           |
+| 16:30:00 AM | 16:50:00 AM | Raison d'être of the benchmark dataset: A Survey of Current Practices of Benchmark Dataset Sharing Platforms    |
+| 16:50:00 AM | 17:50:00 AM | Round Table: Beyond GLUE                                                                                        |
+| 17:50:00 AM | 18:00:00 AM | Closing remarks                                                                                                 |
 
 NLP Power workshop will be held in a hybrid format.
 All plenary sessions will be held (either livestreamed or broadcasted) in Zoom and followed by a live Q&A (unless the schedule indicates otherwise). Questions can be asked in the Zoom chat during the presentations. 
