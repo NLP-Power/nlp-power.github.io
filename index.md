@@ -4,16 +4,16 @@ The First Workshop on Efficient Benchmarking in NLP.
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/nlp_power_acl.svg?style=social&label=Follow%20%40nlp_power_acl)](https://twitter.com/nlp_power_acl)
 
-## Finalizing camera-ready and workshop schedule 🍭🌙
+## Workshop schedule 🍭🌙
 
-**To the authors** Please check the pdf of your paper with the [ACLPUBCHECK](https://github.com/acl-org/aclpubcheck) tool, a Python tool that automatically detects author formatting errors, margin violations as well as many other common formatting errors in papers that are using the LaTeX sty file associated with ACL venues. 
+The workshop programme is now available [here](https://nlp-power.github.io/program.html).
 
-We strongly suggest using this tool tool before the submission of your final camera ready.
+**Round table**: We are organizing the round table on the benchmarks and their problems.
+If you feel like it's your theme to elaborate on, feel free to join the discussion!
 
-**Submit camera-ready** via the [openreview page](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power): review submission.
+_GLUE authors, let's stick together!_
 
-**Programme**: The workshop programme will be available [here](https://nlp-power.github.io/program.html).
-
+⏰: May 26 16:50 via zoom, Dublin time, final hours of the workshop
 
 ## Important dates
 
