@@ -8,7 +8,7 @@ THe program of the workshop will happen within the Ireland timezone (GMT), which
 | Start time  | End time    | Title                                                                                                           |
 |-------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 09:00:00 | 09:10:00 | Opening remarks                                                                                                 |
-| 09:10:00 | 09:55:00 | Invited Talk 1: Anna Rumshiski                                                                                  |
+| 09:10:00 | 09:55:00 | Invited Talk 1: Anna Rumshisky                                                                                  |
 | 09:55:00 | 10:10:00 | Beyond Static models and test sets: Benchmarking the potential of pre-trained models across tasks and languages |
 | 10:10:00 | 10:30:00 | Characterizing the Efficiency vs. Accuracy Trade-off for Long-Context NLP Models                                |
 | 10:30:00 | 11:00:00 |  Coffee break                                                                                                   |
