@@ -15,6 +15,35 @@ _GLUE authors, let's stick together!_
 
 ⏰: May 26 16:50 via zoom, Dublin time, final hours of the workshop
 
+## Invited speakers
+
+### Ulises A. Mejias [(SUNY Oswego)](https://blog.ulisesmejias.com/)
+<img src="https://github.com/NLP-Power/nlp-power.github.io/blob/main/ulises_mejias.jpg?raw=true" width="100px" align="right">
+
+DATA COLONIALISM AND LANGUAGE TECHNOLOGY
+
+This presentation will frame the increasing monopolistic power of Big Tech in the field of NLP as an instance of data colonialism. The concept of data colonialism explains the emergence of a new social order based not on the extraction of natural resources or labor, but on the appropriation of human life —including language— through data. This new type of colonialism is already resulting in a highly unequal social arrangement that is deeply incompatible with human freedom and autonomy. And as research in NLP becomes the exclusive domain of powerful corporations, language itself is becoming a zone of colonial extractivism. Resisting this order will require strategies that decolonial thinking has foregrounded for centuries.
+
+Ulises A. Mejias is Professor of Communication Studies and director of the Institute for Global Engagement at SUNY Oswego. From 2021 to 2025, a Fulbright Specialist fellow. Ulises A. Mejias is co-founder of the Non-Aligned Technologies Movement and the network Tierra Común and also serves on the Board of Directors of Humanities New York, a National Endowment for the Humanities affiliate. Research interests include critical internet studies, network theory and science, philosophy of technology, sociology of communication, and political economy of digital media.
+
+### Anna Rumshisky [(UMASS, Amazon)](https://www.uml.edu/sciences/computer-science/faculty/rumshisky-anna.aspx) 
+<img src="https://github.com/NLP-Power/nlp-power.github.io/blob/main/rumshisky-anna.jpg?raw=true" width="100px" align="right">
+
+BREAKING PRE-TRAINED TRANSFORMERS
+
+Multiple studies have shown that Transformers are remarkably robust, and retain performance advantages under massive pruning and other disruptions.  Contrary to this received wisdom, in this talk, we will show that pre-trained Transformer encoders are surprisingly fragile to the removal of a very small number of features in the layer outputs.  We will also consider the performance of several pre-trained Transformer families and pre-training objectives on a number of downstream probing tasks, and discuss some important challenges to these architectures.
+
+Anna Rumshisky is an Associate Professor of Computer Science at the University of Massachusetts Lowell, where she heads the Text Machine Lab for NLP. Her primary research area is machine learning for natural language processing, with a focus on deep learning techniques. 
+
+### He He  [(CILVR / ML2)](https://hhexiy.github.io) 
+<img src="https://github.com/NLP-Power/nlp-power.github.io/blob/main/hehe.jpg?raw=true" width="100px" align="right">
+
+WHAT WE TALK ABOUT WHEN WE TALK ABOUT SPURIOUS CORRELATIONS
+
+Model robustness and spurious correlations have received increasing attention in the NLP community, both in methods and evaluation. The term "spurious correlation" has been abused to refer to any undesirable shortcuts learned by the model,  judged by domain knowledge. However, in NLP, many features (e.g. word overlap and negation) are not spurious in the sense that the background is a spurious feature to classifying the object in the image. They carry important information that's needed to make predictions by humans. In this talk, we argue that it is more productive to consider features from the aspects of necessity and sufficiency, and discuss the implications of this categorization in representation, learning, and evaluation.
+
+He He is an Assistant Professor of Computer Science and Data Science at CILVR Lab (Computational Intelligence, Learning, Vision, and Robotics) NYU, where she develops reliable communication in natural language between machines and humans. Recent research directions include: (1) text generation (2) robust language understanding (3) dialogue systems.
+
 ## Important dates
 
  - March. 15, 2022: ~~Workshop Paper Due Date~~ [We accept papers via ARR](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/NLP-Power)
@@ -58,19 +87,7 @@ The main objectives of this workshop are to (1) create a space for critical refl
 
 **Data collection & leakage** Benchmark datasets076are traditionally collected from publicly available resources that may contain malicious and ethically inappropriate data (Liang et al., 2020). Moreover, recent  works  reveal  data  leakages  between  train and test sets (Elangovan et al., 2021; Lewis et al., 2021), rising questions whether the models indeed demonstrate their generalization abilities or simply learn statistical artefacts in the pre-training and downstream data. This has stimulated design of zero- and few-shot scenarios that assess generalization capacity of the models (Hou et al., 2020; Alex et al., 2021).
 
-## Invited speakers
 
-### Ulises A. Mejias [(SUNY Oswego)](https://blog.ulisesmejias.com/)
-<img src="https://github.com/NLP-Power/nlp-power.github.io/blob/main/ulises_mejias.jpg?raw=true" width="100px" align="right">
-Ulises A. Mejias is Professor of Communication Studies and director of the Institute for Global Engagement at SUNY Oswego. From 2021 to 2025, a Fulbright Specialist fellow. Ulises A. Mejias is co-founder of the Non-Aligned Technologies Movement and the network Tierra Común and also serves on the Board of Directors of Humanities New York, a National Endowment for the Humanities affiliate. Research interests include critical internet studies, network theory and science, philosophy of technology, sociology of communication, and political economy of digital media.
-
-### Anna Rumshisky [(UMASS, Amazon)](https://www.uml.edu/sciences/computer-science/faculty/rumshisky-anna.aspx) 
-<img src="https://github.com/NLP-Power/nlp-power.github.io/blob/main/rumshisky-anna.jpg?raw=true" width="100px" align="right">
-Anna Rumshisky is an Associate Professor of Computer Science at the University of Massachusetts Lowell, where she heads the Text Machine Lab for NLP. Her primary research area is machine learning for natural language processing, with a focus on deep learning techniques. 
-
-### He He  [(CILVR / ML2)](https://hhexiy.github.io) 
-<img src="https://github.com/NLP-Power/nlp-power.github.io/blob/main/hehe.jpg?raw=true" width="100px" align="right">
-He He is an Assistant Professor of Computer Science and Data Science at CILVR Lab (Computational Intelligence, Learning, Vision, and Robotics) NYU, where she develops reliable communication in natural language between machines and humans. Recent research directions include: (1) text generation (2) robust language understanding (3) dialogue systems.
 
 
 ## Program Committee
